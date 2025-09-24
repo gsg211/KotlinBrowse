@@ -25,26 +25,18 @@ Start the application. You will see a prompt showing the current URL. Enter comm
 
 Available commands:
 
-help
-Displays a list of all available commands.
+help: Displays a list of all available commands.
 
-details
-Shows detailed information about the project and each command.
+details: Shows detailed information about the project and each command.
 
-search
-Prompts you to enter a search term. Performs a DuckDuckGo search and displays a list of links.
+search: Prompts you to enter a search term. Performs a DuckDuckGo search and displays a list of links.
 
-link
-Displays the list of links on the current page and lets you select one by index to navigate to.
+link: Displays the list of links on the current page and lets you select one by index to navigate to.
 
-links
-Shows all links currently found on the active page.
+links: Shows all links currently found on the active page.
 
-content
-Displays the main textual content of the current page.
+content: Displays the main textual content of the current page.
 
-html
-Shows the raw HTML of the current page.
+html: Shows the raw HTML of the current page.
 
-home
-Navigates to the default homepage: https://html.duckduckgo.com/html/
+home: Navigates to the default homepage: https://html.duckduckgo.com/html/
