@@ -1,6 +1,6 @@
 ## Description
 
-KotlinBrowse is a containerised minimal CLI browser made for as a homework exercise. It can browse the web and print out the content to the output. Additionally, it can block out websites written in banList.txt
+KotlinBrowse is a containerised minimal CLI browser made as a homework exercise. It can browse the web and print out the content to the output. Additionally, it can block out websites written in banList.txt
 
 ## How to build and run
 
